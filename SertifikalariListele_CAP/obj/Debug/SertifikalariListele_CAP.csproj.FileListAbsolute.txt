@@ -1,0 +1,7 @@
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\bin\Debug\SertifikalariListele_CAP.exe.config
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\bin\Debug\SertifikalariListele_CAP.exe
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\bin\Debug\SertifikalariListele_CAP.pdb
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\obj\Debug\SertifikalariListele_CAP.csprojResolveAssemblyReference.cache
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\obj\Debug\SertifikalariListele_CAP.csproj.CoreCompileInputs.cache
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\obj\Debug\SertifikalariListele_CAP.exe
+c:\users\inspiron\source\repos\SertifikalariListele_CAP\SertifikalariListele_CAP\obj\Debug\SertifikalariListele_CAP.pdb
